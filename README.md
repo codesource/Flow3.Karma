@@ -10,8 +10,9 @@ NodeJS must be installed.
 *(Be careful in most of the installation, the executable will be `nodejs` and not `node`, you will have to create a symlink)*
 
 Karma must be installed.
-
-`npm install karma`
+```
+npm install karma
+```
 
 Jasmine must be installed.
 
