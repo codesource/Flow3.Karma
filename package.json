@@ -1,0 +1,23 @@
+{
+    "name": "Flow3.Karma",
+    "version": "0.0.1",
+    "description": "Base infrastructure for Karma testing in Flow3",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/codesource/Flow3.Karma.git"
+    },
+    "author": "Matthias Toscanelli <m.toscanelli@code-source.ch>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/codesource/Flow3.Karma/issues"
+    },
+    "dependencies": {
+        "karma": "~0.13",
+        "phantomjs": "~1.9",
+        "jasmine": "~2.4",
+        "underscore": "*"
+    },
+    "devDependencies": {
+        "jshint": "*"
+    }
+}
